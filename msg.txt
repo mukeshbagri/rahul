@@ -1,0 +1,9 @@
+I've attached the pages with some more corrections.
+
+Let me know if you have questions, ok?
+----------------------------------------------------
+
+Hi Sugan,
+I wanted to also add to shipping method - we will have two methods - UPS and DHL, but we will chose. 
+Do we need to integrate anything or is this something we do after the sale?
+Thanks!
